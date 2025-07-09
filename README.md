@@ -14,13 +14,14 @@ The simulation is based on real-life customer service scenarios where interarriv
 - **Little's Law for validation**  
 - **Gamma-distributed service times**
 
-## 📂 Repository Contents
+## Repository Contents
+| File Name                                           | Description                                        |
+| --------------------------------------------------- | -------------------------------------------------- |
+| `final project stochastic models.pdf`               | Full written report (theory, results, conclusions) |
+| `stochastic models final project only code (2).Rmd` | RMarkdown script with full simulation code         |
+| `Pollaczek–Khinchine formula (2).xlsx`              | Excel sheet calculating queueing metrics           |
+| `install_packages.R`                                | R script to install required packages              |
 
-| File Name                                         | Description                                      |
-|--------------------------------------------------|--------------------------------------------------|
-| `final project stochastic models.pdf`            | Full written report (theory, results, conclusions) |
-| `stochastic models final project only code (2).Rmd` | RMarkdown script with full simulation code      |
-| `Pollaczek–Khinchine formula (2).xlsx`           | Excel sheet calculating queueing metrics         |
 
 ##  Tools Used
 

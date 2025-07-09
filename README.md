@@ -1,6 +1,6 @@
-# 📊Queue Simulation Using Stochastic Models
+# Queue Simulation Using Stochastic Models
 
-[📄 View Full Report (PDF)](https://github.com/orbenh/stochastic-models-queue-simulation/blob/main/final%20project%20stochastic%20models.pdf)
+[📄View Full Report (PDF)](https://github.com/orbenh/stochastic-models-queue-simulation/blob/main/final%20project%20stochastic%20models.pdf)
 
 This project analyzes a single-server queue using **stochastic modeling** and validates results with **Monte Carlo simulation** in R.  
 We model an **M/G/1 queue** (Poisson arrivals, general service times) and apply the **Pollaczek–Khinchine formula** to estimate system metrics such as:
